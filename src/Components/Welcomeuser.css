@@ -1,0 +1,14 @@
+#userinfo li {
+    margin: 0px 20
+}
+#userinfo li {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+#userinfo li h4 {
+    color: red;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 26px;
+}

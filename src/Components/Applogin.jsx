@@ -22,6 +22,7 @@ class Applogin extends Component {
      }
      submitLogin = async (event) => {
          event.preventDefault();
+         console.log("wwwwwwww");
          let username = this.state.users_name;
          let password = this.state.users_password; 
          if (username != '' && password != ''){
